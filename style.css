@@ -41,6 +41,7 @@ img {
     display: circle;
     margin: 0 auto;
     width: 5;
+    height: 5;
 }
 SECTION {
     position:relative;
