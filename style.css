@@ -37,8 +37,8 @@ form {
 
 
 img {
-    border-radius: 5%; 
-    display: circle;
+    border-radius: 0%; 
+    display: block;
     margin: 0 auto;
     width: 5;
     height: 5;
