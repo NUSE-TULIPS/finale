@@ -37,8 +37,8 @@ form {
 
 
 img {
-    border-radius: 50%; 
-    display: block;
+    border-radius: 30%; 
+    display: circle;
     margin: 0 auto;
 }
 SECTION {
