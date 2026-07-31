@@ -1,13 +1,12 @@
 nav {
     position:relative;
-        bottom: 0;
+        bottom: 1;
         width: 100%;
-        background: rgba(39, 96, 201, 0.6); 
         color: #fff;
         text-align: center;
-        padding: 8px 0;
-        font-size: 16px;
-        border-radius: 0 0 8px 8px;
+        padding: 8px 1;
+        font-size: 18px;
+        border-radius: 1 1 8px 8px;
 }
 body {
     background-color: lightblue;
